@@ -4,7 +4,6 @@
 
 ![image](/public/XORA.png)
 
-
-
-LIVE LINK HERE 👇👇👇
+***LIVE LINK HERE*** 👇👇👇  
+**Check live here:**  [XORA](https://xora-landing.vercel.app/)
 
