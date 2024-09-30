@@ -7,6 +7,7 @@ const Faq = () => {
   return (
     <section>
       <Element name="faq">
+        
         <div className="relative z-2 container py-28">
           <div>
             <h3 className="h3 max-md:h5 max-w-640 max-lg:max-w-md mb-7 text-p4">
